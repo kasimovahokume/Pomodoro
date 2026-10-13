@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Cozy Pomodoro — şirin pomidor favicon-u -->
+  <circle cx="32" cy="36" r="22" fill="#FF9FB2" />
+  <circle cx="32" cy="36" r="22" fill="none" stroke="#F2879F" stroke-width="3" />
+  <!-- Yarpaqlar -->
+  <path d="M32 16c-4-6-11-6-14-3 4 0 7 2 8 5-5-1-9 1-10 4 4-2 8-1 10 1 2-2 5-4 6-7z" fill="#9BE3C9" />
+  <path d="M32 16c4-6 11-6 14-3-4 0-7 2-8 5 5-1 9 1 10 4-4-2-8-1-10 1-2-2-5-4-6-7z" fill="#9BE3C9" />
+  <rect x="30" y="12" width="4" height="7" rx="2" fill="#5FC3A2" />
+  <!-- Gözlər -->
+  <circle cx="24" cy="35" r="3" fill="#5A4A52" />
+  <circle cx="40" cy="35" r="3" fill="#5A4A52" />
+  <!-- Yanaqlar -->
+  <ellipse cx="19" cy="42" rx="4" ry="2.5" fill="#FFD9E0" />
+  <ellipse cx="45" cy="42" rx="4" ry="2.5" fill="#FFD9E0" />
+  <!-- Ağız -->
+  <path d="M28 43q4 5 8 0" stroke="#5A4A52" stroke-width="2.4" fill="none" stroke-linecap="round" />
+</svg>

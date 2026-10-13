@@ -1,0 +1,13 @@
+/* ============================================================================
+   TAILWIND CSS v4 — qoşulma nöqtəsi
+   ----------------------------------------------------------------------------
+   Burada `preflight` (Tailwind-in öz reset-i) QƏSDƏN import EDİLMİR, çünki
+   bizim öz "cozy" baza stillərimiz var (global.css). Beləliklə Tailwind-in
+   bütün utility sinifləri (flex, gap-3, text-sm ...) işləyir, amma onun
+   reset-i bizim dizayn sistemini pozmur.
+   ========================================================================== */
+
+@layer theme, base, components, utilities;
+
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
